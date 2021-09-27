@@ -1,4 +1,8 @@
-
+# DNS-model
+Simple DNS server model using MySQL database.
+## Installation 
+Download and install MySQL from
+ - [Download MySQL](https://www.mysql.com/downloads/)
 ## Creating Database in MySQL
 
 #### Create new Database
